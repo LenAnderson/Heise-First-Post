@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           Heise.de - First Post
 // @namespace      https://github.com/LenAnderson/
+// @downloadURL    https://github.com/LenAnderson/Heise-First-Post/raw/master/heise_first_post.user.js
 // @include        http://www.heise.de/*/foren/*/list/*
 // ==/UserScript==
  
