@@ -2,8 +2,8 @@
 // @name           Heise.de - First Post
 // @namespace      https://github.com/LenAnderson/
 // @downloadURL    https://github.com/LenAnderson/Heise-First-Post/raw/master/heise_first_post.user.js
-// @version        0.3
-// @include        http://www.heise.de/forum/*/forum-*/
+// @version        0.4
+// @include        https://www.heise.de/forum/*/forum-*/
 // ==/UserScript==
 
 function firstPost() {
